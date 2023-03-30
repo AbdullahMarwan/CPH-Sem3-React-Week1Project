@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './Styles/App.css';
+import PropTypes from "prop-types";
 
 function App() {
   return (
